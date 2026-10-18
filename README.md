@@ -28,17 +28,11 @@ Reporting to management, this project evaluates pricing, demand, and host activi
   Data Structure Overview
 </h2>
 
-Airbnb's database structure as seen below consists of three tables: orders, products and marketing spend, with a total row count of 128,351 records.
+Airbnb's database structure as seen below consists of three tables: details about each listing, neighborhood codes for listings and historical review activity by listing, with a total row count of 321, 433 records.
 
 <p align="center">
   <img src="https://github.com/joshuabufi-analyst/Profitability-Analysis/blob/main/photos/ERD.png" width="750">
 </p>
-
-*The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/joshuabufi-analyst/Profitability-Analysis/blob/main/scripts/proc_load_silver_sql).*
-
-*The SQL queries utilized to clean, organize, and prepare data for the ad hoc report can be found [here](scripts).*
-
-*Targeted SQL queries regarding various business questions can be found [here](https://github.com/joshuabufi-analyst/Profitability-Analysis/blob/main/scripts/ddl_load_gold_sql).*
 
 *The Excel utilized to organize, prepare and visualize data for the ad hoc report can be found [here](https://github.com/joshuabufi-analyst/Profitability-Analysis/blob/main/docs/Analysis.xlsx).*
 

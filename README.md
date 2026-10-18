@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-size: 56px;">
-  E-Commerce Profitability Analysis
+  Asheville Airbnb Listings Analysis
 </h1>
 
 <h2 align="center" style="font-size: 40px;">

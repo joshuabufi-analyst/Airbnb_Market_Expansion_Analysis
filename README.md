@@ -15,9 +15,9 @@ Founded in 2007, Airbnb began when two hosts welcomed three guests into their Sa
 Reporting to management, this project evaluates pricing, demand, and host activity trends in Asheville from 2011 to 2025 to help a travel startup assess the feasibility of market expansion. The analysis identifies promising neighborhoods and property types while evaluating potential risks, such as seasonal demand fluctuations, market competition, and reliance on a small number of hosts. Insights and recommendations are provided on the following key areas:
 
 #### **North Star Metrics**
-  ✓ **Comparative and Ranking Analysis:** Analyzing Airbnb's Room Type and Neighborhood to assess Median RevPAL and Seasonality Risk
-  ✓ **Review & Demand Analysis:** Evaluation of historical booking patterns, focusing on Demand Growth Rate and Supply Growth Rate
-  ✓ **Host Analysis:** An assessment of the Top Host Share by Revenue and Median Occupancy Rtae
+  - **Comparative and Ranking Analysis:** Analyzing Airbnb's Room Type and Neighborhood to assess Median RevPAL and Seasonality Risk
+  - **Review & Demand Analysis:** Evaluation of historical booking patterns, focusing on Demand Growth Rate and Supply Growth Rate
+  - **Host Analysis:** An assessment of the Top Host Share by Revenue and Median Occupancy Rate
 
 <h2 align="center" style="font-size: 40px;">
   Executive Summary

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photo" width="150">
+  <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/Airbnb_Logo_B%C3%A9lo.svg.webp" width="150">
 </p>
 
 <h1 align="center" style="font-size: 56px;">

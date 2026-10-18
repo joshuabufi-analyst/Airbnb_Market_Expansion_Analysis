@@ -34,7 +34,7 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 Airbnb's database structure as seen below consists of three tables: details about each listing, neighborhood codes for listings and historical review activity by listing, with a total row count of 321, 433 records.
 
 <p align="center">
-  <img src="https://github.com/joshuabufi-analyst/Profitability-Analysis/blob/main/photos/ERD.png" width="750">
+  <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/ERD.png" width="750">
 </p>
 
 *The Excel utilized to organize, prepare and visualize data for the ad hoc report can be found [here](https://github.com/joshuabufi-analyst/Profitability-Analysis/blob/main/docs/Analysis.xlsx).*

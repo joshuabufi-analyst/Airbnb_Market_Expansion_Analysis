@@ -48,6 +48,8 @@ Airbnb's database structure as seen below consists of three tables: details abou
 </h2>
 
 ### Caveats & Assumptions
+  This analysis applies several assumptions and methodological adjustments to address limitations in the available data. These measures provide a consistent basis for calculating and comparing key performance metrics, while the stated caveats highlight where results may differ from actual or independently verified business outcomes. Therefore, the findings should be interpreted in light of the assumptions and limitations outlined in the analysis.
+
 #### Caveats:
 #### Assumptions:
 

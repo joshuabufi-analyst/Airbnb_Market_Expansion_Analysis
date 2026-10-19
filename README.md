@@ -27,6 +27,10 @@ Reporting to management, this project evaluates pricing, demand, and host activi
   <strong>Chart Title</strong>
 </p>
 
+<p align="center">
+  <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/Dashboard.png" width="100%">
+</p>
+
 <h2 align="center" style="font-size: 40px;">
   Data Structure Overview
 </h2>

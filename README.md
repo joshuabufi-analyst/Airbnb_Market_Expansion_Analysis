@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-size: 56px;">
-  Asheville Airbnb Listings Analysis
+  Asheville Market Expansion Analysis
 </h1>
 
 <h2 align="center" style="font-size: 40px;">

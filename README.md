@@ -41,7 +41,7 @@ Airbnb's database structure as seen below consists of three tables: details abou
   <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/ERD.png" width="750">
 </p>
 
-*The Excel utilized to organize, prepare and visualize data for the ad hoc report can be found [here](https://github.com/joshuabufi-analyst/Profitability-Analysis/blob/main/docs/Analysis.xlsx).*
+*The Excel utilized to organize, prepare and visualize data for the ad hoc report can be found [here](https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/Dashboard/Project%201.xlsb).*
 
 <h2 align="center" style="font-size: 40px;">
   Insights Deep Dive

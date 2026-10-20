@@ -58,6 +58,10 @@ Airbnb's database structure as seen below consists of three tables: details abou
 
 **Recent Market Activity Filter:** The market expansion analysis includes listings whose last review date falls between June 16, 2024, and June 16, 2025. This 12-month window serves as a proxy for recent guest activity, helping focus the analysis on listings with evidence of recent market participation. 
 
+#### Comparative and Ranking Analysis:
+#### Review & Demand Analysis:
+#### Host Analysis:
+
 <h2 align="center" style="font-size: 40px;">
   Recommendations
 </h2>

@@ -58,11 +58,11 @@ Airbnb's database structure as seen below consists of three tables: details abou
 
 **Recent Market Activity Filter:** The market expansion analysis includes listings whose last review date falls between June 16, 2024, and June 16, 2025. This 12-month window serves as a proxy for recent guest activity, helping focus the analysis on listings with evidence of recent market participation. 
 
-#### Comparative and Ranking Analysis:
+### Comparative and Ranking Analysis:
 The market's overall median RevPAL (Revenue per Available Listing) is $35.84, below the assigned threshold of $40 per night, indicating that the typical listing generates less revenue per available night than the target benchmark. Meanwhile, the Seasonality Risk Index of 0.15 is below the 0.30 threshold, suggesting relatively low seasonal risk under the established methodology. Together, these findings indicate that **the market has below-target revenue potential but relatively low seasonality risk**. Although revenue performance may be consistently below the target, further analysis is needed to determine whether the market offers sufficient profitability and long-term expansion potential.
 
-#### Review & Demand Analysis:
-#### Host Analysis:
+### Review & Demand Analysis:
+### Host Analysis:
 
 <h2 align="center" style="font-size: 40px;">
   Recommendations

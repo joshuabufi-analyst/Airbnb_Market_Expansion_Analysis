@@ -56,6 +56,8 @@ Airbnb's database structure as seen below consists of three tables: details abou
 
 **Active Listing Definition:** Listing activity was assessed using two criteria: at least one review in the last 12 months and a reviews-per-month value greater than zero. `availability_365` was analyzed separately because the dataset defines it as the number of days a listing is available for booking within the next 365 days. Unavailable dates may reflect guest bookings or host-blocked calendars; therefore, availability alone cannot reliably establish listing activity or demand. This approach avoids imposing an arbitrary availability threshold and reduces the risk of misclassifying active listings.
 
+**Recent Market Activity Filter:** The market expansion analysis includes listings whose last review date falls between June 16, 2024, and June 16, 2025. This 12-month window serves as a proxy for recent guest activity, helping focus the analysis on listings with evidence of recent market participation. 
+
 <h2 align="center" style="font-size: 40px;">
   Recommendations
 </h2>

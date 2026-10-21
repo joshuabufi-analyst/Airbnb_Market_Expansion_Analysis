@@ -90,9 +90,9 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
 
     <td width="40%" align="center">
       <p align="center">
-      <strong>.</strong>
+      <strong>Private Rooms in neighborhood 288732 has the most stable revenue potential.</strong>
       </p>
-      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q1.1.png" width="100%">
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q1.2.png" width="100%">
     </td>
   </tr>
 </table>

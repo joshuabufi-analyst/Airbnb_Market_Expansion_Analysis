@@ -61,6 +61,22 @@ Airbnb's database structure as seen below consists of three tables: details abou
 ### Comparative and Ranking Analysis:
 The market's overall median RevPAL (Revenue per Available Listing) is $35.84, below the assigned threshold of $40 per night, indicating that the typical listing generates less revenue per available night than the target benchmark. Meanwhile, the Seasonality Risk Index of 0.15 is below the 0.30 threshold, suggesting relatively low seasonal risk under the established methodology. Together, these findings indicate that **the market has below-target revenue potential but relatively low seasonality risk**. Although revenue performance may be consistently below the target, further analysis is needed to determine whether the market offers sufficient profitability and long-term expansion potential.
 
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <p align="center">
+      <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q1.1.png" width="100%">
+    </td>
+    <td width="60%" valign="top">
+
+
+
+    </td>
+  </tr>
+</table>
+
 ### Review & Demand Analysis:
 ### Host Analysis:
 

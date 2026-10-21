@@ -84,10 +84,11 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
 
 - **Promising opportunity** — Neighborhood 28732: Private rooms have a Seasonality Risk Index of 0.25 and the highest median RevPAL at $87.52 per night, indicating relatively stable demand and strong revenue potential.
 
-- **High risk, below-target revenue** — Neighborhoods 28806, 28801, 28715, and 28803: These neighborhoods have seasonality risk at or above 0.30 and median RevPAL below $40. Neighborhood 28803 has the highest risk index at 2.78. Hosts should improve listing photos and reviews, adjust pricing to seasonal demand, offer competitive off-season rates, and save peak-season earnings for slower periods.
+- **High risk, below-target revenue** — Neighborhoods 28806, 28801, 28715, and 28803: Neighborhood 28803 has the highest risk index at 2.78. Hosts should improve listing photos and reviews, adjust pricing to seasonal demand, offer competitive off-season rates, and save peak-season earnings for slower periods.
 
-- **Low risk, below-target revenue** — Neighborhoods 28704 and 28804: These neighborhoods have seasonality risk below 0.30 but median RevPAL below $40. Neighborhood 28804 comes closest to the target at $37.72 per night. Hosts should assess ADR and occupancy, optimize off-season pricing and minimum stays, adjust rates during peak demand, and improve listing appeal to increase bookings.
+- **Low risk, below-target revenue** — Neighborhoods 28704 and 28804: Neighborhood 28804 comes closest to the target at $37.72 per night. Hosts should assess ADR and occupancy, optimize off-season pricing and minimum stays, adjust rates during peak demand, and improve listing appeal to increase bookings.
 
+- **High risk, above-target revenue** Neighborhood 28805: Neighborhood 28805 exceeds the target, with a median RevPAL of $42.74 per night, but has a Seasonality Risk Index of 0.44. Hosts should adjust pricing to reflect seasonal demand, offer competitive off-season rates to encourage bookings, and reserve peak-season earnings to cover expenses during slower periods.
     </td>
 
     <td width="40%" align="center">

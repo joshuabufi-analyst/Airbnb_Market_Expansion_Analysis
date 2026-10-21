@@ -104,7 +104,7 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
   <tr>
     <td width="50%" align="center" valign="center">
       <p align="center">
-        <strong>Hotel room properties in neighborhood 28806 have high revenue potential but require sufficient data to assess seasonal demand reliably.</strong>
+        <strong>Hotel Rooms in neighborhood 28806 show high revenue potential, but seasonal demand remains inconclusive due to insufficient data.</strong>
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q1.3.png" width="100%">
     </td>

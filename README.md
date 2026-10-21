@@ -82,9 +82,11 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
   <tr>
     <td width="60%" valign="top">
 
-  - Home/Apartment properties in neighborhoods 28803 and 28805 show low seasonality risk (0.28 and 0.14) and median RevPAL values of $43.60 and $40.80 per night, respectively, both exceeding the $40 threshold and indicating stable revenue potential.
-  - Neighborhoods 28804, 28801, and 28715 have high seasonality risk and median RevPAL below the target. Neighborhood 28715 has the highest risk (0.38), while 28801 and 28804 are at the 0.30 threshold. Hosts should improve listing photos and guest reviews, adjust rates to match seasonal demand, maintain competitive off-season pricing, and reserve peak-season profits to cover off-season expenses and potential cash shortfalls.
-  - Neighborhoods 28732, 28704, and 28806 have low seasonality risk but median RevPAL below $40 per night. Neighborhood 28806 is closest to the target at $38.70. Hosts should assess ADR and occupancy to identify performance gaps, adjust off-peak rates or minimum-stay requirements to boost bookings, raise rates during strong demand, and improve listing photos and guest reviews to increase appeal.
+- **Promising opportunity** — Neighborhood 28732: Private rooms have a Seasonality Risk Index of 0.25 and the highest median RevPAL at $87.52 per night, indicating relatively stable demand and strong revenue potential.
+
+- **High risk, below-target revenue** — Neighborhoods 28806, 28801, 28715, and 28803: These neighborhoods have seasonality risk at or above 0.30 and median RevPAL below $40. Neighborhood 28803 has the highest risk index at 2.78. Hosts should improve listing photos and reviews, adjust pricing to seasonal demand, offer competitive off-season rates, and save peak-season earnings for slower periods.
+
+- **Low risk, below-target revenue** — Neighborhoods 28704 and 28804: These neighborhoods have seasonality risk below 0.30 but median RevPAL below $40. Neighborhood 28804 comes closest to the target at $37.72 per night. Hosts should assess ADR and occupancy, optimize off-season pricing and minimum stays, adjust rates during peak demand, and improve listing appeal to increase bookings.
 
     </td>
 

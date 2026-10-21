@@ -72,6 +72,7 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
     <td width="60%" valign="top">
 
   - Home/Apartment properties in neighborhoods 28803 and 28805 show low seasonality risk (0.28 and 0.14) and median RevPAL values of $43.60 and $40.80 per night, respectively, both exceeding the $40 threshold and indicating stable revenue potential.
+  - As shown in the graph, neighborhoods 28804, 28801, and 28715 exhibit high seasonality risk and median RevPAL below the established threshold. Neighborhood 28715 has the highest seasonality risk at 0.38, while 28801 and 28804 are at the 0.30 threshold. For these neighborhoods, hosts should improve listing appeal by optimizing cover photos and guest reviews, adjust rates upward during periods of strong demand, and establish competitive minimum rates during slower periods. Additionally, peak-season profits should be reserved to help cover operating expenses and potential cash shortfalls during the off-season.
   - 
 
 

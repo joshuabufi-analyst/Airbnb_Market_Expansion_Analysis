@@ -88,7 +88,7 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
 
 - **Low risk, below-target revenue** — Neighborhoods 28704 and 28804: Neighborhood 28804 comes closest to the target at $37.72 per night. Hosts should assess ADR and occupancy, optimize off-season pricing and minimum stays, adjust rates during peak demand, and improve listing appeal to increase bookings.
 
-- **High risk, above-target revenue** Neighborhood 28805: Neighborhood 28805 exceeds the target, with a median RevPAL of $42.74 per night, but has a Seasonality Risk Index of 0.44. Hosts should adjust seasonal pricing, offer competitive off-season rates, and save peak-season earnings for slower periods.
+- **High risk, above-target revenue** Neighborhood 28805: Median RevPAL exceeds the $40 target at $42.74 per night, but the Seasonality Risk Index is 0.44. Hosts should adjust seasonal pricing, offer competitive off-season rates, and save peak-season earnings for slower periods.
     </td>
 
     <td width="40%" align="center">

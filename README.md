@@ -144,6 +144,14 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
   </tr>
 </table>
 
+The review-based demand indicators for 2023 and 2024 followed similar trends from June through September, with demand levels remaining relatively consistent between the two periods. Similarly, the review-based supply indicators for 2024 were slightly higher than those for 2023 but followed a comparable seasonal pattern.
+
+However, October 2024 recorded a sharp year-over-year decline in both indicators, with review-based demand decreasing by 89.52% and review-based supply decreasing by 73.49%. In the subsequent months, the 2024–2025 indicators remained below their corresponding 2023–2024 levels, suggesting a sustained reduction in review activity and in the number of listings identified as active under the study's criteria.
+
+Hurricane Helene, which struck the region in late September 2024, provides a plausible explanation for the sharp October 2024 decline. Official tourism updates reported that October 2024 vacation-rental demand was down 28% year over year, while airport passenger traffic fell by approximately 53%. These independent indicators support the conclusion that the storm severely disrupted Asheville's tourism industry during that period. [*Explore Asheville*](https://marketing.exploreasheville.com/acton/media/43256/thcunov24) and [*Asheville Regional Airport reporting*](https://www.wfae.org/2024-12-13/passenger-traffic-at-asheville-airport-nearly-halved-in-wake-of-hurricane-helene).
+
+Therefore, external events provide context for interpreting the observed trends, but additional evidence is needed to determine how much they contributed to changes in Airbnb demand and supply.
+
 ### Host Analysis:
 
 <h2 align="center" style="font-size: 40px;">

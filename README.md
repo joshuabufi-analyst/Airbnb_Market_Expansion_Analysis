@@ -35,7 +35,7 @@ Reporting to management, this project evaluates pricing, demand, and host activi
   Data Structure Overview
 </h2>
 
-Airbnb's database structure as seen below consists of three tables: details about each listing, neighborhood codes for listings and historical review activity by listing, with a total row count of 321, 433 records.
+Airbnb's database structure as seen below consists of three tables: details about each listing, neighborhood codes for listings and historical review activity by listing, with a total row count of 321, 433 records. The overall dataset has a **Market Data Confidence Index of 92.14%**, exceeding the 90% threshold for high data confidence. This indicates that the dataset meets the established criteria for market data reliability, with relatively few identified data quality issues. However, the index does not guarantee that all records are accurate or free from documentation errors.
 
 <p align="center">
   <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/ERD.png" width="750">

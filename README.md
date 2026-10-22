@@ -117,11 +117,11 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
   </tr>
 </table>
 
-  - Hotel Rooms in neighborhood 28806 have a median RevPAL of $54.74 per night, exceeding the $40 target. However, the Seasonality Risk Index (SRI) of 0 is inconclusive because it is based on only one September 2024 review, providing insufficient data to assess seasonal demand reliably. Because the coefficient of variation is sensitive to the number of observations, the zero index may reflect insufficient data rather than genuinely stable demand. Additional data are needed before determining the segment’s seasonality risk.
+  - Hotel Rooms in neighborhood 28806 have a median RevPAL of $54.74 per night, exceeding the $40 target. However, the **Seasonality Risk Index (SRI) of 0 is inconclusive** because it is based on only one September 2024 review, providing insufficient data to assess seasonal demand reliably. Because the coefficient of variation is sensitive to the number of observations, the zero index may reflect insufficient data rather than genuinely stable demand. Additional data are needed before determining the segment’s seasonality risk.
 
   - In contrast, Hotel Rooms in neighborhood 28803 have a low SRI of 0.22, below the 0.30 threshold, but a median RevPAL of only $1.58 per night. Hosts should investigate pricing, occupancy, and booking availability to identify revenue improvement opportunities before considering expansion.
 
-  - Shared Rooms in neighborhoods 28801, 28804, and 28806 have SRI values below the 0.30 threshold but exhibit below-target revenue potential. Neighborhood 28801 has the highest median RevPAL among the three at $27.37 per night, still falling $12.63 below the $40 target. Hosts should assess ADR and occupancy to identify the causes of low revenue, optimize off-season pricing and minimum-stay requirements, adjust rates during peak-demand periods, and improve listing appeal to attract more bookings and increase revenue.
+  - Shared Rooms in neighborhoods 28801, 28804, and 28806 have SRI values **below the 0.30 threshold but exhibit below-target revenue potential.** Neighborhood 28801 has the highest median RevPAL among the three at $27.37 per night, still falling $12.63 below the $40 target. Hosts should assess ADR and occupancy to identify the causes of low revenue, optimize off-season pricing and minimum-stay requirements, adjust rates during peak-demand periods, and improve listing appeal to attract more bookings and increase revenue.
 
 ### Review & Demand Analysis:
 ### Host Analysis:

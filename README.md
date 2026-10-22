@@ -131,13 +131,13 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84, be
   <tr>
     <td width="50%" align="center" valign="center">
       <p align="center">
-        <strong>.</strong>
+        <strong>Review-based demand indicators declined sharply in October 2024 compared with October 2023.</strong>
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.1.png" width="100%">
     </td>
     <td width="50%" align="center" valign="center">
       <p align="center">
-        <strong>.</strong>
+        <strong>Review-based supply indicators declined sharply in October 2024 compared with October 2023.</strong>
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.2.png" width="100%">
     </td>

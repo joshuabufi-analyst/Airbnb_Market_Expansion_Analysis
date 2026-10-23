@@ -16,7 +16,7 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 
 #### **North Star Metrics**
   - **Revenue Viability Analysis:** Analyzing Airbnb's Room Type and Neighborhood to assess Median RevPAL and Seasonality Risk
-  - **Review & Demand Analysis:** Evaluation of historical booking patterns, focusing on Demand Growth Rate and Supply Growth Rate
+  - **Review-Based Demand & Supply Analysis:** Evaluation of historical booking patterns, focusing on Demand Growth Rate and Supply Growth Rate
   - **Host Analysis:** An assessment of the Top Host Share by Revenue and Median Occupancy Rate
 
 <h2 align="center" style="font-size: 40px;">

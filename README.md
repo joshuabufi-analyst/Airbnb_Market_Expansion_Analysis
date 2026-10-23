@@ -155,10 +155,7 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
 <table>
   <tr>
     <td width="60%" valign="top">
-
-
     </td>
-
     <td width="40%" align="center">
       <p align="center">
       <strong>.</strong>

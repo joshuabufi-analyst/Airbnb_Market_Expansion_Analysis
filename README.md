@@ -125,7 +125,7 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84 per
 
   - Shared Rooms in neighborhoods 28801, 28804, and 28806 have SRI values **below the 0.30 threshold but exhibit below-target revenue potential.** Neighborhood 28801 has the highest median RevPAL among the three at $27.37 per night, still falling $12.63 below the $40 target. Hosts should assess ADR and occupancy to identify the causes of low revenue, optimize off-season pricing and minimum-stay requirements, adjust rates during peak-demand periods, and improve listing appeal to attract more bookings and increase revenue.
 
-### Review & Demand Analysis:
+### Review-Based Demand & Supply Analysis::
 
 <table width="100%">
   <tr>
@@ -148,9 +148,40 @@ The review-based demand indicators for 2023 and 2024 followed similar trends fro
 
 However, October 2024 recorded a sharp year-over-year decline in both indicators, with review-based demand decreasing by 89.52% and review-based supply decreasing by 73.49%. In the subsequent months, the 2024–2025 indicators remained below their corresponding 2023–2024 levels, suggesting a sustained reduction in review activity and in the number of listings identified as active under the study's criteria.
 
+External events provide context for interpreting the observed trends, but additional evidence is needed to determine how much they contributed to changes in Airbnb demand and supply.
+
 Hurricane Helene, which struck the region in late September 2024, provides a plausible explanation for the sharp October 2024 decline. Official tourism updates reported that October 2024 vacation-rental demand was down 28% year over year, while airport passenger traffic fell by approximately 53%. These independent indicators support the conclusion that the storm severely disrupted Asheville's tourism industry during that period. [*Explore Asheville*](https://marketing.exploreasheville.com/acton/media/43256/thcunov24) and [*Asheville Regional Airport reporting*](https://www.wfae.org/2024-12-13/passenger-traffic-at-asheville-airport-nearly-halved-in-wake-of-hurricane-helene).
 
-Therefore, external events provide context for interpreting the observed trends, but additional evidence is needed to determine how much they contributed to changes in Airbnb demand and supply.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+
+    </td>
+
+    <td width="40%" align="center">
+      <p align="center">
+      <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.3.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <p align="center">
+      <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.4.png" width="100%">
+    </td>
+    <td width="60%" valign="top">
+
+
+    </td>
+  </tr>
+</table>
 
 ### Host Analysis:
 

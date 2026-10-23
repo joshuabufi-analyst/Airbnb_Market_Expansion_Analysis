@@ -125,7 +125,13 @@ The market's overall median RevPAL (Revenue per Available Listing) is $35.84 per
 
   - Shared Rooms in neighborhoods 28801, 28804, and 28806 have SRI values **below the 0.30 threshold but exhibit below-target revenue potential.** Neighborhood 28801 has the highest median RevPAL among the three at $27.37 per night, still falling $12.63 below the $40 target. Hosts should assess ADR and occupancy to identify the causes of low revenue, optimize off-season pricing and minimum-stay requirements, adjust rates during peak-demand periods, and improve listing appeal to attract more bookings and increase revenue.
 
-### Review-Based Demand & Supply Analysis::
+### Review-Based Demand & Supply Analysis:
+
+The market recorded a year-over-year supply growth rate of **16.50%**, exceeding the established 15% threshold and indicating aggressive expansion in active listings. Meanwhile, the **review-based demand growth rate declined by 37.95%**, suggesting a substantial contraction in demand-related review activity.
+
+The combination of increasing supply and declining review-based demand suggests a shift toward a **more competitive, renter-favorable market**, where hosts may face greater pressure to attract bookings and maintain pricing. Rather than indiscriminately reducing prices, hosts should prioritize **strategic pricing, occupancy optimization, and differentiation** through distinctive amenities, property features, and clearly defined target audiences. These strategies may help preserve pricing power amid increasing competition, although their effectiveness requires further validation using listing-level performance data.
+
+External events should also be investigated to provide context for the observed changes in supply and demand. However, additional evidence is needed to determine whether these events contributed to the trends and to what extent they influenced Airbnb market performance.
 
 <table width="100%">
   <tr>
@@ -148,9 +154,7 @@ The review-based demand indicators for 2023 and 2024 followed similar trends fro
 
 However, October 2024 recorded a sharp year-over-year decline in both indicators, with review-based demand decreasing by 89.52% and review-based supply decreasing by 73.49%. In the subsequent months, the 2024–2025 indicators remained below their corresponding 2023–2024 levels, suggesting a sustained reduction in review activity and in the number of listings identified as active under the study's criteria.
 
-External events provide context for interpreting the observed trends, but additional evidence is needed to determine how much they contributed to changes in Airbnb demand and supply.
-
-Hurricane Helene, which struck the region in late September 2024, provides a plausible explanation for the sharp October 2024 decline. Official tourism updates reported that October 2024 vacation-rental demand was down 28% year over year, while airport passenger traffic fell by approximately 53%. These independent indicators support the conclusion that the storm severely disrupted Asheville's tourism industry during that period. [*Explore Asheville*](https://marketing.exploreasheville.com/acton/media/43256/thcunov24) and [*Asheville Regional Airport reporting*](https://www.wfae.org/2024-12-13/passenger-traffic-at-asheville-airport-nearly-halved-in-wake-of-hurricane-helene).
+Hurricane Helene, which struck the region in late September 2024, provides a plausible explanation for the sharp October 2024 decline. Official tourism updates reported that October 2024 vacation-rental demand was down 28% year over year, while airport passenger traffic fell by approximately 53%. These independent indicators support the conclusion that the storm severely disrupted Asheville's tourism industry during that period. *Sources:* [*Explore Asheville*](https://marketing.exploreasheville.com/acton/media/43256/thcunov24) and [*Asheville Regional Airport reporting*](https://www.wfae.org/2024-12-13/passenger-traffic-at-asheville-airport-nearly-halved-in-wake-of-hurricane-helene).
 
 <table>
   <tr>

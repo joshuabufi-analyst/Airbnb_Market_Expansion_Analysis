@@ -131,7 +131,7 @@ The market recorded a year-over-year supply growth rate of **16.50%**, exceeding
 
 The combination of increasing supply and declining review-based demand suggests a shift toward a **more competitive, renter-favorable market**, where hosts may face greater pressure to attract bookings and maintain pricing. Rather than indiscriminately reducing prices, hosts should prioritize **strategic pricing, occupancy optimization, and differentiation** through distinctive amenities, property features, and clearly defined target audiences. These strategies may help preserve pricing power amid increasing competition, although their effectiveness requires further validation using listing-level performance data.
 
-External events should also be investigated to provide context for the observed changes in supply and demand. However, additional evidence is needed to determine whether these events contributed to the trends and to what extent they influenced Airbnb market performance.
+Market analysis should evaluate performance by neighborhood and room type to identify the most promising combinations for expansion. External events should also be investigated to provide context for the observed changes in supply and demand. However, additional evidence is needed to determine whether these events contributed to the trends and to what extent they influenced Airbnb market performance.
 
 <table width="100%">
   <tr>

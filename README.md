@@ -207,6 +207,9 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
   </tr>
 </table>
 
+  - Hotel Room properties in neighborhood 28803 exhibit a sharp decline in review-based demand growth of −152.23%, while review-based supply growth remains at 0%. This suggests weakening demand without observed growth in the supply indicator, potentially putting pressure on occupancy and revenue. Hosts should investigate the decline, adopt flexible pricing and minimum-stay policies, address maintenance and guest-service issues, and highlight distinctive amenities to improve listing competitiveness.
+  - In contrast, neighborhood 28806 has 0% review-based demand growth versus 100% supply growth, suggesting increased competition. Hosts should monitor RevPAL, occupancy, operating costs, and contribution margin over 12–24 months. To improve short-term performance, test dynamic pricing, promotional offers, and shorter minimum stays. If profitability continues to decline, consider long-term rentals for more stable cash flow. Evaluate each strategy based on booking conversion, RevPAL, and contribution margin.
+
 ### Host Analysis:
 
 <h2 align="center" style="font-size: 40px;">

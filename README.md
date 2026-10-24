@@ -177,7 +177,7 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
   <tr>
     <td width="40%" align="center">
       <p align="center">
-      <strong>.</strong>
+      <strong>Hotel Room demand is declining in 28732 and 28704, with 0% supply growth.</strong>
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.4.png" width="100%">
     </td>

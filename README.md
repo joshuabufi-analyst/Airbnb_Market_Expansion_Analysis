@@ -48,7 +48,7 @@ Airbnb's database structure as seen below consists of three tables: details abou
 </h2>
 
 ### Caveats & Assumptions
-  This analysis applies several assumptions and methodological adjustments to address limitations in the available data. These measures provide a consistent basis for calculating and comparing key performance metrics, while the stated caveats highlight where results may differ from actual or independently verified business outcomes. Therefore, the findings should be interpreted in light of the assumptions and limitations outlined in the analysis.
+This analysis uses consistent assumptions and adjustments to calculate key metrics, but results should be interpreted in light of the following limitations:
 
 **Scope of Rental Duration:** The analysis focuses on short-term rentals, defined for this project as stays lasting a few days to fewer than 30 consecutive nights. This scope reflects the conventional short-stay accommodation market, where bookings generate platform service-fee revenue for Airbnb through its website and app. Longer stays were excluded to maintain a consistent focus on short-term accommodation patterns. This cutoff is an analytical assumption rather than a restriction on Airbnb's business model, which also accommodates longer-term stays.
 
@@ -56,7 +56,7 @@ Airbnb's database structure as seen below consists of three tables: details abou
 
 **Review-Based Demand Indicators:** The number of reviews submitted by Airbnb guests is used as a proxy for booking demand because actual booking records for individual listings are not publicly available due to privacy restrictions. This assumes that review activity is reasonably indicative of booking activity. However, since not all guests leave reviews, review counts may underestimate actual bookings and should not be interpreted as the exact number of reservations.
 
-**Active Listing Definition:** Listing activity was assessed using two criteria: at least one review in the last 12 months and a reviews-per-month value greater than zero. `availability_365` was analyzed separately because the dataset defines it as the number of days a listing is available for booking within the next 365 days. Unavailable dates may reflect guest bookings or host-blocked calendars; therefore, availability alone cannot reliably establish listing activity or demand. This approach avoids imposing an arbitrary availability threshold and reduces the risk of misclassifying active listings.
+**Active Listing Definition:** Defined by at least one review in the past 12 months and a positive reviews-per-month value. Availability was assessed separately because unavailable dates may reflect bookings or host-blocked calendars.
 
 **Recent Market Activity Filter:** The market expansion analysis includes listings whose last review date falls between June 16, 2024, and June 16, 2025. This 12-month window serves as a proxy for recent guest activity, helping focus the analysis on listings with evidence of recent market participation. 
 

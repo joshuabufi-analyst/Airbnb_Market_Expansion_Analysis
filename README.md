@@ -159,13 +159,12 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
 <table>
   <tr>
     <td width="60%" valign="top">
+      
+  **Entire Home/Apartment properties in neighborhoods 28805 and 28804 exhibit negative review-based demand growth, while their supply growth rates remain below the 15% threshold for aggressive expansion.** This indicates declining review-based demand without evidence of aggressive supply growth under the established criteria. Hosts should calculate their cash break-even nightly rate, including utilities, cleaning, platform fees, and other relevant operating costs, and avoid pricing below this floor without a clear financial justification. Consider three- or four-night minimum stays to reduce turnover frequency, alongside carefully calibrated weekly (7+ nights) and monthly (28+ nights) discounts to encourage longer bookings. Improve listing appeal by highlighting distinctive, high-value amenities in the primary photo. Smart thermostats and remote locks may also help manage energy consumption and streamline property access. Monitor booking conversion, occupancy, and contribution margin to evaluate whether these strategies improve profitability.
     </td>
-
-**Entire Home/Apartment properties in neighborhoods 28805 and 28804 exhibit negative review-based demand growth, while their supply growth rates remain below the 15% threshold for aggressive expansion.** This indicates declining review-based demand without evidence of aggressive supply growth under the established criteria. Hosts should calculate their cash break-even nightly rate, including utilities, cleaning, platform fees, and other relevant operating costs, and avoid pricing below this floor without a clear financial justification. Consider three- or four-night minimum stays to reduce turnover frequency, alongside carefully calibrated weekly (7+ nights) and monthly (28+ nights) discounts to encourage longer bookings. Improve listing appeal by highlighting distinctive, high-value amenities in the primary photo. Smart thermostats and remote locks may also help manage energy consumption and streamline property access. Monitor booking conversion, occupancy, and contribution margin to evaluate whether these strategies improve profitability.
-
     <td width="40%" align="center">
       <p align="center">
-      <strong>.</strong>
+      <strong>Entire Home/Apartment demand is declining in 28805 and 28804, with supply growth below 15%.</strong>
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.3.png" width="100%">
     </td>

@@ -213,6 +213,20 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
   - **Shared Room properties in neighborhood 28804 show declining review-based demand (−42.07%) and supply (−13.10%), with demand falling faster.** Hosts should investigate demand trends, adjust pricing and minimum stays, improve guest services, and highlight unique amenities. Monitor occupancy, RevPAL, and contribution margin to assess performance.
 
 ### Host Analysis:
+Asheville, North Carolina, has 2,163 active short-term rental listings in the dataset, while the median occupancy rate is 24.93%, substantially below the established 40% threshold. This suggests that the typical listing is not meeting the target occupancy benchmark, potentially indicating weak booking performance or seasonal demand. However, the number of active listings alone does not establish market saturation. Further analysis of demand trends, supply growth, pricing, and neighborhood-level performance is needed to determine whether market conditions support expansion.
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <p align="center">
+      <strong>Entire Home/Apartment.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.1.png" width="100%">
+    </td>
+    <td width="60%" valign="center">
+    </td>
+  </tr>
+</table>
 
 <h2 align="center" style="font-size: 40px;">
   Recommendations

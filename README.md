@@ -158,7 +158,7 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
       
   **Entire Home/Apartment properties in neighborhoods 28805 and 28804 exhibit negative review-based demand growth, while their supply growth rates remain below the 15% threshold for aggressive expansion.** This indicates declining review-based demand without evidence of aggressive supply growth under the established criteria. Hosts should protect profitability by setting cost-based minimum rates, encouraging longer stays through minimum-night requirements and targeted discounts, highlighting premium amenities, and using smart devices to reduce operating costs. Monitor conversion, occupancy, and contribution margin to assess performance.
 
@@ -181,7 +181,7 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.4.png" width="100%">
     </td>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
 
 
     </td>

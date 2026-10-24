@@ -194,21 +194,23 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
   <tr>
     <td width="50%" align="center" valign="center">
       <p align="center">
-        <strong>Hotel Room.</strong>
+        <strong>Hotel Rooms in 28803 face declining demand, while 28806 faces stagnant demand and rising supply, increasing competition.</strong>
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.5.png" width="100%">
     </td>
     <td width="50%" align="center" valign="center">
       <p align="center">
-        <strong>Shared Room.</strong>
+        <strong>Shared Rooms in 28801 and 28806 show declining demand with stable supply, while 28804 experiences faster demand decline than supply.</strong>
       </p>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.6.png" width="100%">
     </td>
   </tr>
 </table>
 
-  - Hotel Room properties in neighborhood 28803 exhibit a sharp decline in review-based demand growth of −152.23%, while review-based supply growth remains at 0%. This suggests weakening demand without observed growth in the supply indicator, potentially putting pressure on occupancy and revenue. Hosts should investigate the decline, adopt flexible pricing and minimum-stay policies, address maintenance and guest-service issues, and highlight distinctive amenities to improve listing competitiveness.
-  - In contrast, neighborhood 28806 has 0% review-based demand growth versus 100% supply growth, suggesting increased competition. Hosts should monitor RevPAL, occupancy, operating costs, and contribution margin over 12–24 months. To improve short-term performance, test dynamic pricing, promotional offers, and shorter minimum stays. If profitability continues to decline, consider long-term rentals for more stable cash flow. Evaluate each strategy based on booking conversion, RevPAL, and contribution margin.
+  - **Hotel Room properties in neighborhood 28803 exhibit a sharp decline in review-based demand growth of −152.23%, while review-based supply growth remains at 0%.** This suggests weakening demand without observed growth in the supply indicator, potentially putting pressure on occupancy and revenue. Hosts should investigate the decline, adopt flexible pricing and minimum-stay policies, address maintenance and guest-service issues, and highlight distinctive amenities to improve listing competitiveness.
+  - **In contrast, neighborhood 28806 has 0% review-based demand growth versus 100% supply growth, suggesting increased competition.** Hosts should monitor RevPAL, occupancy, operating costs, and contribution margin over 12–24 months. To improve short-term performance, test dynamic pricing, promotional offers, and shorter minimum stays. If profitability continues to decline, consider long-term rentals for more stable cash flow. Evaluate each strategy based on booking conversion, RevPAL, and contribution margin.
+  - **Shared Room properties in neighborhoods 28801 and 28806 exhibit negative review-based demand growth of −91.57% and −42.07%, respectively, while review-based supply growth remains at 0%.** This suggests weakening demand without observed growth in the supply indicator, potentially putting pressure on occupancy and revenue, particularly in neighborhood 28801. Hosts should investigate the demand decline, adopt flexible pricing and minimum-stay policies, address maintenance and guest-service issues, and highlight distinctive amenities to improve listing competitiveness. Monitor occupancy, RevPAL, and contribution margin to evaluate the effectiveness of these strategies.
+  - **Shared Room properties in neighborhood 28804 show declining review-based demand (−42.07%) and supply (−13.10%), with demand falling faster.** Hosts should investigate demand trends, adjust pricing and minimum stays, improve guest services, and highlight unique amenities. Monitor occupancy, RevPAL, and contribution margin to assess performance.
 
 ### Host Analysis:
 

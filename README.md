@@ -190,6 +190,23 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="center">
+      <p align="center">
+        <strong>Hotel Room.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.5.png" width="100%">
+    </td>
+    <td width="50%" align="center" valign="center">
+      <p align="center">
+        <strong>Shared Room.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q2.6.png" width="100%">
+    </td>
+  </tr>
+</table>
+
 ### Host Analysis:
 
 <h2 align="center" style="font-size: 40px;">

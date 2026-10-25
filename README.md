@@ -215,40 +215,105 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
 ### Host Analysis:
 Asheville, North Carolina, has 2,163 active short-term rental listings in the dataset, while the median occupancy rate is 24.93%, substantially below the established 40% threshold. This suggests that the typical listing is not meeting the target occupancy benchmark, potentially indicating weak booking performance or seasonal demand. However, the number of active listings alone does not establish market saturation. Further analysis of demand trends, supply growth, pricing, and neighborhood-level performance is needed to determine whether market conditions support expansion.
 
-<p align="center">
-  <strong>.</strong>
-</p>
 
-<p align="center">
-  <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.1.png" width="50%">
-</p>
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>Entire Home/Apartment.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.1.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.5.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.9.png" width="100%">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>.</strong>
-</p>
 
-<p align="center">
-  <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.2.png" width="50%">
-</p>
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>Private Room.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.2.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.6.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.10.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>Hotel Room.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.3.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.7.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.11.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>Shared Room.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.4.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.8.png" width="100%">
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <p align="center">
+        <strong>.</strong>
+      </p>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.12.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 <h2 align="center" style="font-size: 40px;">
   Recommendations
 </h2>
-
-<p align="center">
-  <strong>.</strong>
-</p>
-
-<p align="center">
-  <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.3.png" width="50%">
-</p>
-
-<p align="center">
-  <strong>.</strong>
-</p>
-
-<p align="center">
-  <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.4.png" width="50%">
-</p>
-
 Based on the uncovered insights, here are actionable items that Airbnb can take away from our analysis.

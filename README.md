@@ -223,8 +223,32 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
   <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.1.png" width="50%">
 </p>
 
+<p align="center">
+  <strong>.</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.2.png" width="50%">
+</p>
+
 <h2 align="center" style="font-size: 40px;">
   Recommendations
 </h2>
+
+<p align="center">
+  <strong>.</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.3.png" width="50%">
+</p>
+
+<p align="center">
+  <strong>.</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.4.png" width="50%">
+</p>
 
 Based on the uncovered insights, here are actionable items that Airbnb can take away from our analysis.

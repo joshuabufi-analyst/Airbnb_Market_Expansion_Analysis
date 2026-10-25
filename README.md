@@ -215,47 +215,20 @@ Hurricane Helene, which struck the region in late September 2024, provides a pla
 ### Host Analysis:
 Asheville, North Carolina, has 2,163 active short-term rental listings in the dataset, while the median occupancy rate is 24.93%, substantially below the established 40% threshold. This suggests that the typical listing is not meeting the target occupancy benchmark, potentially indicating weak booking performance or seasonal demand. However, the number of active listings alone does not establish market saturation. Further analysis of demand trends, supply growth, pricing, and neighborhood-level performance is needed to determine whether market conditions support expansion.
 
-
-
-<table width="100%">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <!-- LEFT COLUMN: 40% EXPLANATION -->
-    <td width="40%" valign="top" align="left">
-      <h3>Market Analysis Insights</h3>
-      <p>
-        <strong>Hotel Rooms — Neighborhood 28806</strong><br>
-        Hotel rooms show high revenue potential, but seasonal demand
-        remains inconclusive due to insufficient data.
-      </p>
-      <p>
-        <strong>Shared Rooms — All Neighborhoods</strong><br>
-        Shared room properties exhibit low seasonality risk but
-        below-target revenue, suggesting limited revenue potential
-        despite relatively stable performance.
-      </p>
-      <p>
-        <strong>ADD YOUR THIRD INSIGHT TITLE</strong><br>
-        Add your explanation of the third graph here, highlighting
-        its key findings and implications for market expansion.
-      </p>
-    </td>
-    <!-- RIGHT COLUMN: 60% GRAPHS -->
-    <td width="60%" valign="top" align="center">
-      <h3>Hotel Rooms — Neighborhood 28806</h3>
+    <td width="50%" align="center" valign="top" style="padding: 5px;">
+      <strong>.</strong>
+      <br><br>
       <img src="https://raw.githubusercontent.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/main/photos/Q3.1.png" width="100%">
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 5px;">
+      <strong>.</strong>
       <br><br>
-      <h3>Shared Rooms — All Neighborhoods</h3>
       <img src="https://raw.githubusercontent.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/main/photos/Q3.5.png" width="100%">
-      <br><br>
-      <h3>ADD YOUR THIRD GRAPH TITLE</h3>
-      <img src="https://raw.githubusercontent.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/main/photos/Q3.9.png" width="100%">
-
     </td>
   </tr>
 </table>
-
-
-
 
 
 <h2 align="center" style="font-size: 40px;">

@@ -240,17 +240,21 @@ Further analysis of revenue potential, supply and demand growth, and seasonality
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>Private Rooms in neighborhoods 28732 and 28715 are tied for the lowest number of active listings.</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.2.png" width="100%">
     </td>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>Host composition reveals a potential difference in the competitive landscape of neighborhoods 28732 and 28715.</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.6.png" width="100%">
     </td>
   </tr>
 </table>
+
+Private Rooms in neighborhoods 28732 and 28715 have the fewest active listings, suggesting limited competition. However, 28732 has a median occupancy rate of 99.45%, compared with 35.62% in 28715, which falls below the 40% benchmark. Neighborhood 28732 appears more promising for expansion, combining limited inventory with exceptionally high occupancy. However, its small sample size may limit the reliability of this finding.
+
+Host composition also differs: two of three hosts in 28732 are mid-scale (6–11 properties), while two of three in 28715 are small-scale (2–5 properties). Both neighborhoods have one independent host. This suggests that competitors in 28732 may have more experience managing multiple properties or greater operational capacity. Nevertheless, host portfolio size alone does not establish their financial resources or actual competitive advantage.
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>

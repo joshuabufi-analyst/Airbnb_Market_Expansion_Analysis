@@ -261,18 +261,21 @@ Neighborhood 28704 has 9 active Private Room listings, 8 managed by independent 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>Neighborhoods 28806 and 28803 median occupancy rates differ substantially.</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.3.png" width="100%">
     </td>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>Hotel Room listings in Asheville are managed by mid-scale hosts.</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.7.png" width="100%">
     </td>
   </tr>
 </table>
 
+Hotel Room listings in neighborhoods 28806 and 28803 are both managed by two mid-scale hosts. However, their median occupancy rates differ substantially. Neighborhood 28806 has a median occupancy rate of 49.32%, exceeding the 40% benchmark by 9.32 percentage points, while neighborhood 28803 records only 1.52%, falling significantly below the target.
+
+These findings suggest that **28806 is the more promising neighborhood for Hotel Room** investment based on occupancy performance, as its listings demonstrate substantially higher utilization despite a similar mid-scale host composition. 
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>

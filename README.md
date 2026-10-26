@@ -252,9 +252,11 @@ Further analysis of revenue potential, supply and demand growth, and seasonality
   </tr>
 </table>
 
-Private Rooms in neighborhoods 28732 and 28715 have the fewest active listings, suggesting limited competition. However, 28732 has a median occupancy rate of 99.45%, compared with 35.62% in 28715, which falls below the 40% benchmark. Neighborhood 28732 appears more promising for expansion, combining limited inventory with exceptionally high occupancy. However, its small sample size may limit the reliability of this finding.
+**Private Rooms in neighborhoods 28732 and 28715 have the fewest active listings**, suggesting limited competition. However, 28732 has a median occupancy rate of 99.45%, compared with 35.62% in 28715, which falls below the 40% benchmark. **Neighborhood 28732 appears more promising for expansion**, combining limited inventory with exceptionally high occupancy. However, its small sample size may limit the reliability of this finding.
 
 Host composition also differs: two of three hosts in 28732 are mid-scale (6–11 properties), while two of three in 28715 are small-scale (2–5 properties). Both neighborhoods have one independent host. This suggests that competitors in 28732 may have more experience managing multiple properties or greater operational capacity. Nevertheless, host portfolio size alone does not establish their financial resources or actual competitive advantage.
+
+Neighborhood 28704 has 9 active Private Room listings, 8 managed by independent hosts and 1 by a small-scale host. Its median occupancy rate of 43.29% exceeds the 40% benchmark, **suggesting potential for market expansion** despite its limited inventory.
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>

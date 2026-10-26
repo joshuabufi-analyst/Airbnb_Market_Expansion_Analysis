@@ -231,7 +231,7 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
 </table>
 
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="50%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
       <strong>.</strong>

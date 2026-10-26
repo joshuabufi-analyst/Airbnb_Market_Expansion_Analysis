@@ -218,19 +218,24 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>All neighborhoods with Entire Home/Apartment listings have median occupancy rates below the 40% benchmark.</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.1.png" width="100%">
     </td>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>Neighborhood 28715 has the fewest active listings (55), with 43.64% managed by independent hosts.</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.5.png" width="100%">
     </td>
   </tr>
 </table>
 
-All neighborhoods with Entire Home/Apartment listings have median occupancy rates below the 40% benchmark, indicating that occupancy falls short of the target across the market. Neighborhood 28801 has the lowest median occupancy rate at 14.52%, despite having the second-highest number of active listings (359). This combination suggests a potential supply-demand imbalance that warrants further investigation. In contrast, neighborhood 28803 has the highest median occupancy rate at 30.14%, with 270 active listings, indicating relatively stronger occupancy performance. Neighborhood 28806 has the highest number of active listings (494) and a median occupancy rate of 27.81%, suggesting substantial listing supply alongside relatively stronger occupancy than in neighborhood 28801. Neighborhood 28715 has the fewest active Entire Home/Apartment listings (55) and a median occupancy rate of 27.12%. The relatively low listing count may indicate lower competitive pressure; however, occupancy remains below the 40% benchmark, suggesting room for improvement in booking performance. Further analysis of revenue potential, demand growth, and seasonality is needed to assess the neighborhood's suitability for market expansion.
+All neighborhoods with Entire Home/Apartment listings have median occupancy rates below the 40% benchmark, indicating a market-wide occupancy shortfall.
+- **Neighborhood 28801** has the lowest median occupancy (14.52%) despite 359 active listings, the second-highest inventory. Large-scale hosts account for 28.41% of listings, suggesting a potential supply-demand imbalance that warrants further investigation.
+- **Neighborhood 28803** has the highest median occupancy (30.14%) across 270 listings. Independent hosts account for 49.63% of inventory, although their relationship with occupancy requires further analysis.
+- **Neighborhood 28806** has the most active listings (494), with 53.64% managed by independent hosts. Its median occupancy of 27.81% exceeds that of 28801 but remains below the benchmark.
+- **Neighborhood 28715** has the fewest active listings (55), with 43.64% managed by independent hosts. Despite its smaller inventory, median occupancy is only 27.12%, indicating that lower competition does not necessarily translate into higher occupancy.
+Further analysis of revenue potential, supply and demand growth, and seasonality risk is needed to identify the most attractive neighborhoods for market expansion.
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>

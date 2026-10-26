@@ -280,18 +280,21 @@ These findings suggest that **28806 is the more promising neighborhood for Hotel
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>Shared Room listings in neighborhood 28801 achieve highest median occupancy rate.</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.4.png" width="100%">
     </td>
     <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
+      <strong>Neighborhood 28801 has two small-scale Shared Room hosts, while 28804 and 28806 each have three mid-scale hosts..</strong>
       <br><br>
       <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.8.png" width="100%">
     </td>
   </tr>
 </table>
 
+Shared Room listings in neighborhood 28801 are managed by two small-scale hosts and achieve 49.32% median occupancy, exceeding the 40% benchmark. In contrast, neighborhoods 28804 and 28806, each with three mid-scale hosts, record occupancy rates of only 1.92% and 2.19%, respectively.
+
+**Neighborhood 28801 appears more promising for Shared Room investment** based on its stronger occupancy performance, although further analysis is needed to validate its revenue potential.
 
 <h2 align="center" style="font-size: 40px;">
   Recommendations

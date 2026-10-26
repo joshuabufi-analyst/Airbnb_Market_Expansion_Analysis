@@ -230,6 +230,17 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
   </tr>
 </table>
 
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 5px;">
+      <strong>.</strong>
+      <br><br>
+      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.9.png" width="100%">
+    </td>
+  </tr>
+</table>
+
 All neighborhoods with Entire Home/Apartment listings have median occupancy rates below the 40% benchmark, indicating a market-wide occupancy shortfall.
 - **Neighborhood 28801** has the lowest median occupancy (14.52%) despite 359 active listings, the second-highest inventory. Large-scale hosts account for 28.41% of listings, suggesting a potential supply-demand imbalance that warrants further investigation.
 - **Neighborhood 28803** has the highest median occupancy (30.14%) across 270 listings. Independent hosts account for 49.63% of inventory, although their relationship with occupancy requires further analysis.

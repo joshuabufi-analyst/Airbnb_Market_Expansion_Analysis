@@ -230,16 +230,13 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
   </tr>
 </table>
 
-
-<table width="50%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="padding: 5px;">
-      <strong>.</strong>
-      <br><br>
-      <img src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.9.png" width="50%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.9.png"
+    width="50%"
+    style="border: 2px solid #808080; padding: 5px;"
+  >
+</p>
 
 All neighborhoods with Entire Home/Apartment listings have median occupancy rates below the 40% benchmark, indicating a market-wide occupancy shortfall.
 - **Neighborhood 28801** has the lowest median occupancy (14.52%) despite 359 active listings, the second-highest inventory. Large-scale hosts account for 28.41% of listings, suggesting a potential supply-demand imbalance that warrants further investigation.
@@ -263,6 +260,14 @@ Further analysis of revenue potential, supply and demand growth, and seasonality
   </tr>
 </table>
 
+<p align="center">
+  <img
+    src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.10.png"
+    width="50%"
+    style="border: 2px solid #808080; padding: 5px;"
+  >
+</p>
+
 **Private Rooms in neighborhoods 28732 and 28715 have the fewest active listings**, suggesting limited competition. However, 28732 has a median occupancy rate of 99.45%, compared with 35.62% in 28715, which falls below the 40% benchmark. **Neighborhood 28732 appears more promising for expansion**, combining limited inventory with exceptionally high occupancy. However, its small sample size may limit the reliability of this finding.
 
 Host composition also differs: two of three hosts in 28732 are mid-scale (6–11 properties), while two of three in 28715 are small-scale (2–5 properties). Both neighborhoods have one independent host. This suggests that competitors in 28732 may have more experience managing multiple properties or greater operational capacity. Nevertheless, host portfolio size alone does not establish their financial resources or actual competitive advantage.
@@ -284,6 +289,14 @@ Neighborhood 28704 has 9 active Private Room listings, 8 managed by independent 
   </tr>
 </table>
 
+<p align="center">
+  <img
+    src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.11.png"
+    width="50%"
+    style="border: 2px solid #808080; padding: 5px;"
+  >
+</p>
+
 Hotel Room listings in neighborhoods 28806 and 28803 are both managed by two mid-scale hosts. However, their median occupancy rates differ substantially. Neighborhood 28806 has a median occupancy rate of 49.32%, exceeding the 40% benchmark by 9.32 percentage points, while neighborhood 28803 records only 1.52%, falling significantly below the target.
 
 These findings suggest that **28806 is the more promising neighborhood for Hotel Room** investment based on occupancy performance, as its listings demonstrate substantially higher utilization despite a similar mid-scale host composition. 
@@ -302,6 +315,14 @@ These findings suggest that **28806 is the more promising neighborhood for Hotel
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img
+    src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.12.png"
+    width="50%"
+    style="border: 2px solid #808080; padding: 5px;"
+  >
+</p>
 
 Shared Room listings in neighborhood 28801 are managed by two small-scale hosts and achieve 49.32% median occupancy, exceeding the 40% benchmark. In contrast, neighborhoods 28804 and 28806, each with three mid-scale hosts, record occupancy rates of only 1.92% and 2.19%, respectively.
 

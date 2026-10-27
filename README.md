@@ -262,7 +262,7 @@ Overall, 28803 has the highest occupancy, while 28804 has the lowest. All three 
   </tr>
 </table>
 <p align="center">
-  <strong>.</strong>
+  <strong>Private Rooms in neighborhoods 28732 and 28715 have a top-host revenue share of 100%.</strong>
 </p>
 <p align="center">
   <img
@@ -272,11 +272,13 @@ Overall, 28803 has the highest occupancy, while 28804 has the lowest. All three 
   >
 </p>
 
-**Private Rooms in neighborhoods 28732 and 28715 have the fewest active listings**, suggesting limited competition. However, 28732 has a median occupancy rate of 99.45%, compared with 35.62% in 28715, which falls below the 40% benchmark. **Neighborhood 28732 appears more promising for expansion**, combining limited inventory with exceptionally high occupancy. However, its small sample size may limit the reliability of this finding.
+**Private Rooms in neighborhoods 28732 and 28715 have the fewest active listings and a top-host revenue share of 100%.** This occurs because all observed listings in these neighborhoods are classified as top-host listings under the established methodology. Although this indicates complete revenue concentration among the classified top hosts, it does not necessarily establish limited market competition.
 
-Host composition also differs: two of three hosts in 28732 are mid-scale (6–11 properties), while two of three in 28715 are small-scale (2–5 properties). Both neighborhoods have one independent host. This suggests that competitors in 28732 may have more experience managing multiple properties or greater operational capacity. Nevertheless, host portfolio size alone does not establish their financial resources or actual competitive advantage.
+Neighborhood 28732 has an exceptionally high median occupancy rate of 99.45%, compared with 35.62% in 28715, which falls below the 40% benchmark. However, its small sample limits the reliability of this result. Two of its three hosts are mid-scale operators, while 28715 has two small-scale hosts; both have one independent host.
 
-Neighborhood 28704 has 9 active Private Room listings, 8 managed by independent hosts and 1 by a small-scale host. Its median occupancy rate of 43.29% exceeds the 40% benchmark, **suggesting potential for market expansion** despite its limited inventory.
+Neighborhood 28704 has nine active listings, mostly managed by independent hosts, and a median occupancy rate of 43.29%, exceeding the benchmark. However, its top-host revenue share of 61.90% indicates relatively high revenue concentration.
+
+Neighborhoods 28732 and 28704 warrant further investigation for expansion, given their occupancy performance. Revenue potential, seasonality risk, and supply and demand growth should be assessed before selecting either market.
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>

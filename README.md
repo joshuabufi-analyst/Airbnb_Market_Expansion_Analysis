@@ -34,21 +34,21 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 
 **Overall, the findings favor selective expansion into better-performing neighborhood and property-type segments rather than broad market entry.** The following segments are ranked by relative revenue performance, supply growth, host revenue concentration, and review-based demand trends.
 
-**1\. Shared Room in Neighborhood 28801**
+**1\. Private Room in Neighborhood 28732**
 
-*Strengths:* No supply growth, the strongest relative revenue performance, and low top-host revenue concentration.
+*Strengths:* No supply growth and the strongest relative revenue performance.
 
 *Risks:* The sharpest decline in review-based demand among the three segments may weaken future occupancy and revenue.
 
-**2\. Entire Home/Apartment in Neighborhood 28804**
+**2\. Entire Home/Apartment in Neighborhood 28805**
 
-*Strengths:* Limited supply growth, the strongest relative revenue performance, and low top-host revenue concentration.
+*Strengths:* Limited supply growth and the strongest relative revenue performance.
 
 *Risks:* Sharp declines in review-based demand may pressure occupancy and revenue.
 
-**3\. Entire Home/Apartment in Neighborhood 28805**
+**3\. Entire Home/Apartment in Neighborhood 28804**
 
-*Strengths:* Strong relative revenue performance and low top-host revenue concentration.
+*Strengths:* Strong relative revenue performance.
 
 *Risks:* The highest supply growth among the three segments, combined with declining review-based demand, may intensify competition.
 

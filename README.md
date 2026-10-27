@@ -231,6 +231,10 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
 </table>
 
 <p align="center">
+  <strong>All neighborhoods with Entire Home/Apartment listings have top-host revenue shares below the 40% benchmark.</strong>
+</p>
+
+<p align="center">
   <img
     src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.9.png"
     width="50%"

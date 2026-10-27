@@ -24,9 +24,8 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 </h2>
 
 <p align="center">
-  <strong>A selective expansion strategy targeting neighborhoods and room types with stronger revenue, occupancy, and demand trends is preferable to broad market entry.</strong>
+  <strong>Selective expansion into neighborhoods and room types with stronger revenue, occupancy, and demand is preferable to broad market entry.</strong>
 </p>
-
 <p align="center">
   <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/Dashboard.png" width="100%">
 </p>

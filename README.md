@@ -24,12 +24,16 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 </h2>
 
 <p align="center">
-  <strong>Chart Title</strong>
+  <strong>A selective expansion strategy targeting neighborhoods and room types with stronger revenue, occupancy, and demand trends is preferable to broad market entry.</strong>
 </p>
 
 <p align="center">
   <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/Dashboard.png" width="100%">
 </p>
+
+**Asheville is not recommended for broad market expansion in the short-term rental market under the established benchmarks.** Median RevPAL is $35.84 per night, below the $40 target, while median occupancy is 24.93%, below the 40% benchmark. Although the Seasonality Risk Index (SRI) of 0.15 indicates relatively low seasonality risk under the established methodology, supply growth of 16.50% exceeds the 15% threshold, while review-based demand declines by 37.95%. Together, these trends suggest increasing competitive pressure as listing supply grows amid declining review activity. However, review activity is only a proxy for actual demand and does not directly measure bookings. Across 2,163 active listings and 1,393 hosts, the top 10 hosts account for 13.03% of listing revenue, indicating limited revenue concentration among leading hosts but not necessarily low competition.
+
+A selective expansion strategy targeting neighborhoods and room types with stronger revenue, occupancy, and demand trends is preferable to broad market entry.
 
 <h2 align="center" style="font-size: 40px;">
   Data Structure Overview

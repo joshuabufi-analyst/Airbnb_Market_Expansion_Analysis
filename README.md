@@ -295,7 +295,7 @@ Neighborhoods 28732 and 28704 warrant further investigation for expansion, given
   </tr>
 </table>
 <p align="center">
-  <strong>.</strong>
+  <strong>Hotel Room listings in neighborhoods 28806 and 28803 have a top-host revenue share of 100%.</strong>
 </p>
 <p align="center">
   <img
@@ -305,7 +305,7 @@ Neighborhoods 28732 and 28704 warrant further investigation for expansion, given
   >
 </p>
 
-Hotel Room listings in neighborhoods 28806 and 28803 are both managed by two mid-scale hosts. However, their median occupancy rates differ substantially. Neighborhood 28806 has a median occupancy rate of 49.32%, exceeding the 40% benchmark by 9.32 percentage points, while neighborhood 28803 records only 1.52%, falling significantly below the target.
+Hotel Room listings in neighborhoods 28806 and 28803 are both managed by two mid-scale hosts, and each has a top-host revenue share of 100%. This occurs because all observed listings in these neighborhoods are classified as top-host listings under the established methodology. However, their median occupancy rates differ substantially.
 
 These findings suggest that **28806 is the more promising neighborhood for Hotel Room** investment based on occupancy performance, as its listings demonstrate substantially higher utilization despite a similar mid-scale host composition. 
 
@@ -324,7 +324,7 @@ These findings suggest that **28806 is the more promising neighborhood for Hotel
   </tr>
 </table>
 <p align="center">
-  <strong>.</strong>
+  <strong>All Shared Room listings have a top-host revenue share of 100%.</strong>
 </p>
 <p align="center">
   <img

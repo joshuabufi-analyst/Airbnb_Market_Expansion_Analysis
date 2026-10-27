@@ -233,7 +233,6 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
 <p align="center">
   <strong>All neighborhoods with Entire Home/Apartment listings have top-host revenue shares below the 40% benchmark.</strong>
 </p>
-
 <p align="center">
   <img
     src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.9.png"
@@ -262,7 +261,9 @@ Overall, 28803 has the highest occupancy, while 28804 has the lowest. All three 
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <strong>.</strong>
+</p>
 <p align="center">
   <img
     src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.10.png"
@@ -291,7 +292,9 @@ Neighborhood 28704 has 9 active Private Room listings, 8 managed by independent 
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <strong>.</strong>
+</p>
 <p align="center">
   <img
     src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.11.png"
@@ -318,7 +321,9 @@ These findings suggest that **28806 is the more promising neighborhood for Hotel
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <strong>.</strong>
+</p>
 <p align="center">
   <img
     src="https://github.com/joshuabufi-analyst/Airbnb_Market_Expansion_Analysis/blob/main/photos/Q3.12.png"

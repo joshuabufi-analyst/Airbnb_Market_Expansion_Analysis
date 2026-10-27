@@ -24,7 +24,7 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 </h2>
 
 <p align="center">
-  <strong>Selective expansion into neighborhoods and room types with stronger revenue, occupancy, and demand is preferable to broad market entry.</strong>
+  <strong>Selective expansion into the most promising neighborhoods and property types is preferable to broad market entry.</strong>
 </p>
 <p align="center">
   <img src="https://github.com/joshuabufi-analyst/Asheville-Airbnb-Listings-Analysis/blob/main/photos/Dashboard.png" width="100%">
@@ -32,7 +32,25 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 
 **Asheville is not recommended for broad market expansion in the short-term rental market under the established benchmarks.** Median RevPAL is $35.84 per night, below the $40 target, while median occupancy is 24.93%, below the 40% benchmark. Although the Seasonality Risk Index (SRI) of 0.15 indicates relatively low seasonality risk under the established methodology, supply growth of 16.50% exceeds the 15% threshold, while review-based demand declines by 37.95%. Together, these trends suggest increasing competitive pressure as listing supply grows amid declining review activity. However, review activity is only a proxy for actual demand and does not directly measure bookings. Across 2,163 active listings and 1,393 hosts, the top 10 hosts account for 13.03% of listing revenue, indicating limited revenue concentration among leading hosts but not necessarily low competition.
 
-A selective expansion strategy targeting neighborhoods and room types with stronger revenue, occupancy, and demand trends is preferable to broad market entry.
+**Overall, the findings favor selective expansion into better-performing neighborhood and property-type segments rather than broad market entry.** The following segments are ranked by relative revenue performance, supply growth, host revenue concentration, and review-based demand trends.
+
+**1\. Shared Room in Neighborhood 28801**
+
+*Strengths:* No supply growth, the strongest relative revenue performance, and low top-host revenue concentration.
+
+*Risks:* The sharpest decline in review-based demand among the three segments may weaken future occupancy and revenue.
+
+**2\. Entire Home/Apartment in Neighborhood 28804**
+
+*Strengths:* Limited supply growth, the strongest relative revenue performance, and low top-host revenue concentration.
+
+*Risks:* Sharp declines in review-based demand may pressure occupancy and revenue.
+
+**3\. Entire Home/Apartment in Neighborhood 28805**
+
+*Strengths:* Strong relative revenue performance and low top-host revenue concentration.
+
+*Risks:* The highest supply growth among the three segments, combined with declining review-based demand, may intensify competition.
 
 <h2 align="center" style="font-size: 40px;">
   Data Structure Overview

@@ -36,21 +36,21 @@ Reporting to management, this project evaluates pricing, demand, and host activi
 
 **1\. Private Room in Neighborhood 28732**
 
-*Strengths:* No supply growth and the strongest relative revenue performance.
+*Strengths:* No observed supply growth and strong relative revenue performance.
 
-*Risks:* The sharpest decline in review-based demand among the three segments may weaken future occupancy and revenue.
+*Risks:* Sharp declines in review-based demand may weaken future occupancy and revenue.
 
 **2\. Entire Home/Apartment in Neighborhood 28805**
 
-*Strengths:* Limited supply growth and the strongest relative revenue performance.
+*Strengths:* Strong relative revenue performance and lower supply growth than 28804.
 
-*Risks:* Sharp declines in review-based demand may pressure occupancy and revenue.
+*Risks:* Declining review-based demand may pressure occupancy and revenue.
 
 **3\. Entire Home/Apartment in Neighborhood 28804**
 
-*Strengths:* Strong relative revenue performance.
+*Strengths:* Strong relative revenue performance indicates attractive revenue potential.
 
-*Risks:* The highest supply growth among the three segments, combined with declining review-based demand, may intensify competition.
+*Risks:* The highest supply growth among the three segments, combined with declining demand, may intensify competition and pressure occupancy and revenue.
 
 <h2 align="center" style="font-size: 40px;">
   Data Structure Overview

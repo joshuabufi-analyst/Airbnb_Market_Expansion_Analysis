@@ -238,12 +238,11 @@ Asheville, North Carolina, has 2,163 active short-term rental listings in the da
   >
 </p>
 
-All neighborhoods with Entire Home/Apartment listings have median occupancy rates below the 40% benchmark, indicating a market-wide occupancy shortfall.
-- **Neighborhood 28801** has the lowest median occupancy (14.52%) despite 359 active listings, the second-highest inventory. Large-scale hosts account for 28.41% of listings, suggesting a potential supply-demand imbalance that warrants further investigation.
-- **Neighborhood 28803** has the highest median occupancy (30.14%) across 270 listings. Independent hosts account for 49.63% of inventory, although their relationship with occupancy requires further analysis.
-- **Neighborhood 28806** has the most active listings (494), with 53.64% managed by independent hosts. Its median occupancy of 27.81% exceeds that of 28801 but remains below the benchmark.
-- **Neighborhood 28715** has the fewest active listings (55), with 43.64% managed by independent hosts. Despite its smaller inventory, median occupancy is only 27.12%, indicating that lower competition does not necessarily translate into higher occupancy.
-Further analysis of revenue potential, supply and demand growth, and seasonality risk is needed to identify the most attractive neighborhoods for market expansion.
+All neighborhoods with Entire Home/Apartment listings have median occupancy below the 40% benchmark, indicating a market-wide occupancy shortfall. Top-host revenue shares are also below 40%, suggesting limited revenue concentration among leading hosts; however, this alone does not establish competitive intensity.
+- **Neighborhood 28803:** Has 270 active listings and the highest median occupancy (30.14%). Independent hosts manage 49.63% of inventory, while top hosts account for 8.47% of revenue.
+- **Neighborhood 28805:** Has 191 active listings, with 58.63% managed by independent hosts. Median occupancy is 29.32%, and top-host revenue share is 9.46%.
+- **Neighborhood 28804:** Has 271 active listings, with 49.07% managed by independent hosts. Despite its larger inventory, median occupancy is only 23.56%, while top-host revenue share is 14.51%.
+Overall, 28803 has the highest occupancy, while 28804 has the lowest. All three remain below the target, requiring further analysis of revenue potential, supply and demand trends, and seasonality risk to determine the most attractive expansion opportunity.
 
 <table width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr>

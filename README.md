@@ -359,7 +359,3 @@ Shared Room listings in neighborhood 28801 are managed by two small-scale hosts 
 
 **Neighborhood 28801 appears more promising for Shared Room investment** based on its stronger occupancy performance, although further analysis is needed to validate its revenue potential.
 
-<h2 align="center" style="font-size: 40px;">
-  Recommendations
-</h2>
-Based on the uncovered insights, here are actionable items that Airbnb can take away from our analysis.

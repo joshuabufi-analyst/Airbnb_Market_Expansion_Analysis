@@ -359,3 +359,22 @@ Shared Room listings in neighborhood 28801 are managed by two small-scale hosts 
 
 **Neighborhood 28801 appears more promising for Shared Room investment** based on its stronger occupancy performance, although further analysis is needed to validate its revenue potential.
 
+<h2 align="center" style="font-size: 40px;">
+  Recommendations
+</h2>
+
+Given below-target median RevPAL and occupancy, growing listing supply, and declining review-based demand, broad market expansion in Asheville is not recommended at this time. Instead, prioritize improving the performance of existing listings and selectively pursuing neighborhood and property-type segments with stronger revenue potential and manageable competitive risks. Based on the segment-level analysis, the recommended priorities are:
+
+  1. Private Room in Neighborhood 28732
+  2. Entire Home/Apartment in Neighborhood 28805
+  3. Entire Home/Apartment in Neighborhood 28804
+
+#### Focus Areas
+
+  - *Partner with high-performing hosts:* Identify hosts with strong, stable revenue performance and sustainable occupancy to support partnerships that offer attractive returns.
+
+  - *Optimize Entire Home/Apartment listings:* Improve pricing strategies, operating efficiency, availability management, and listing performance to strengthen revenue and occupancy without unnecessarily increasing supply.
+
+  - *Enhance listing quality and guest experience:* Improve amenities, property descriptions, cleanliness, and guest service to better serve long-stay family travelers and strengthen guest satisfaction, reviews, and repeat bookings.
+
+  - *Monitor demand and competitive conditions:* Track review-based demand, listing supply growth, occupancy, and median RevPAL by neighborhood and property type before committing to additional inventory.
